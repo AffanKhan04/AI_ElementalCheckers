@@ -286,7 +286,7 @@ def menu_screen():
                             if difficulty == "Easy":
                                 ai_depth = 1
                             elif difficulty == "Medium":
-                                ai_depth = 2
+                                ai_depth = 3
                             else:  # Hard
                                 ai_depth = 5
                             running = False  # Exit menu and start game
